@@ -1,0 +1,44 @@
+<scheme name="_@user_Default" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2024.1.0.0</property>
+    <property name="originalScheme">Default</property>
+  </metaInfo>
+  <colors>
+    <option name="FILESTATUS_ADDED" value="C3E887" />
+    <option name="FILESTATUS_COPIED" value="50A14E" />
+    <option name="FILESTATUS_DELETED" value="F77669" />
+    <option name="FILESTATUS_HIJACKED" value="FFCB6B" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="A0A1A7" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="AB7967" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="F77669" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="F77669" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="F77669" />
+    <option name="FILESTATUS_MERGED" value="9B859D" />
+    <option name="FILESTATUS_MODIFIED" value="80CBC4" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80CBC4" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80CBC4" />
+    <option name="FILESTATUS_OBSOLETE" value="FFCB6B" />
+    <option name="FILESTATUS_RENAMED" value="A626A4" />
+    <option name="FILESTATUS_SUPPRESSED" value="546E7A" />
+    <option name="FILESTATUS_SWITCHED" value="F77669" />
+    <option name="FILESTATUS_UNKNOWN" value="F77669" />
+    <option name="FILESTATUS_addedOutside" value="57B6C2" />
+    <option name="FILESTATUS_changelistConflict" value="FF6347" />
+    <option name="FILESTATUS_modifiedOutside" value="4078F2" />
+  </colors>
+  <attributes>
+    <option name="HTML_CODE">
+      <value />
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="99ccbb" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

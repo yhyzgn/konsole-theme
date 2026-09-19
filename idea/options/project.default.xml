@@ -1,0 +1,28 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="McpProjectServerCommands">
+        <commands />
+        <urls />
+      </component>
+      <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "last_opened_file_path": "/home/neo/Projects/recycloud/strip/thirdparty",
+    "settings.editor.selected.configurable": "ml.llm.LLMThirdPartyAiProvidersConfigurable"
+  }
+}]]></component>
+      <component name="WindowStateProjectService">
+        <state x="2160" y="0" width="824" height="502" key="IDE.errors.dialog" timestamp="1787297638306">
+          <screen x="2160" y="0" width="3840" height="2160" />
+        </state>
+        <state x="1440" y="0" width="824" height="502" key="IDE.errors.dialog/1440.0.3840.2160/0.0.1440.2560" timestamp="1785493457119" />
+        <state x="2160" y="0" key="IDE.errors.dialog/2160.0.3840.2160/0.0.2160.3840" timestamp="1787297638306" />
+        <state x="2160" y="0" key="SettingsEditor" timestamp="1788405705215">
+          <screen x="2160" y="0" width="3840" height="2160" />
+        </state>
+        <state x="2160" y="0" key="SettingsEditor/2160.0.3840.2160/0.0.2160.3840" timestamp="1788405705215" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

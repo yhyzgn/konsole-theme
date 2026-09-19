@@ -1,0 +1,9 @@
+<application>
+  <component name="com.codeverse.userSettings.MarsCodeUserModelSettings">
+    <option name="userModelConfigs">
+      <map>
+        <entry key="1590343994192810" value="{&quot;modelConfig&quot;:{&quot;custom_config&quot;:&quot;{\&quot;apply_file_path\&quot;:true,\&quot;explain\&quot;:\&quot;深度思考\&quot;,\&quot;explain_en\&quot;:\&quot;Deep Reasoning\&quot;,\&quot;is_new_pe\&quot;:true,\&quot;model_type\&quot;:\&quot;reasoning_model\&quot;}&quot;,&quot;display_name&quot;:&quot;Doubao-Seed-1.6&quot;,&quot;is_default&quot;:true,&quot;multimodal&quot;:false,&quot;name&quot;:&quot;Doubao_1_6&quot;},&quot;hasShownGuide&quot;:true,&quot;shouldShowChatGuidance&quot;:true,&quot;hasShowBuilderGuidance&quot;:true,&quot;chatV2SelectedModel&quot;:&quot;Doubao_1_6&quot;,&quot;maxModeEnabled&quot;:false,&quot;hasShownSeatDiscountPopup&quot;:false}" />
+      </map>
+    </option>
+  </component>
+</application>

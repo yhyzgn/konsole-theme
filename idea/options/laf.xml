@@ -1,0 +1,18 @@
+<application>
+  <component name="LafManager" autodetect="true">
+    <laf themeId="Islands Light" />
+    <preferred-dark-editor-scheme editorSchemeId="Islands Dark" />
+    <preferred-light-editor-scheme editorSchemeId="Emacs" />
+    <lafs-to-previous-schemes>
+      <laf-to-scheme laf="4f556d32-83cb-4b8b-9932-c4eccc4ce3af" scheme="_@user_One Dark" />
+      <laf-to-scheme laf="Darcula" scheme="_@user_Darcula" />
+      <laf-to-scheme laf="ExperimentalDark" scheme="_@user_Atom One Light (Material)" />
+      <laf-to-scheme laf="ExperimentalLight" scheme="Emacs" />
+      <laf-to-scheme laf="GITHUB" scheme="Emacs" />
+      <laf-to-scheme laf="Islands Dark" scheme="_@user_Default" />
+      <laf-to-scheme laf="Islands Light" scheme="_@user_Default" />
+      <laf-to-scheme laf="JetBrainsLightTheme" scheme="Emacs" />
+      <laf-to-scheme laf="ONE_LIGHT" scheme="Emacs" />
+    </lafs-to-previous-schemes>
+  </component>
+</application>

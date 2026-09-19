@@ -1,0 +1,15 @@
+<scheme name="_@user_Xcode" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="ide">RustRover</property>
+    <property name="ideVersion">2025.3.4.0.0</property>
+    <property name="originalScheme">Xcode</property>
+    <property name="partialSave">true</property>
+    <property name="pluginId">com.intellij.plugins.xcode.colorscheme</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.1" />
+  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_LINE_SPACING" value="0.99" />
+</scheme>

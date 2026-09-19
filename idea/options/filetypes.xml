@@ -1,0 +1,23 @@
+<application>
+  <component name="FileTypeManager" version="19">
+    <ignoreFiles list="*$py.class;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.mypy_cache;.pytest_cache;.ruff_cache;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
+    <extensionMap>
+      <mapping pattern="publish-local" type="AUTO_DETECTED" />
+      <mapping ext="tpl" type="AUTO_DETECTED" />
+      <mapping pattern=".devcontainer.json" type="JSON5" />
+      <mapping pattern="devcontainer.json" type="JSON5" />
+      <mapping pattern="mcp.json" type="JSON5" />
+      <mapping ext="bak" type="Native" />
+      <mapping pattern="" type="PLAIN_TEXT" />
+      <mapping pattern="pattern" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerignore" approved="true" type="DockerIgnore file" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping pattern=".springBeans" approved="true" type="Eclipse" />
+      <removed_mapping pattern="spring.handlers" approved="true" type="Properties" />
+      <removed_mapping pattern="spring.schemas" approved="true" type="Properties" />
+      <mapping ext="env" type="Env File" />
+      <mapping ext="plantuml" type="PlantUML file" />
+      <mapping pattern=".env.*" type="Env File" />
+    </extensionMap>
+  </component>
+</application>

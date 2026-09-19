@@ -1,0 +1,59 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/Projects/neo/lib/flare" value="true" />
+        <entry key="$USER_HOME$/Projects/recycloud/lib/dolores" value="true" />
+        <entry key="$USER_HOME$/Projects/recycloud/lib/formula" value="true" />
+        <entry key="$USER_HOME$/Projects/recycloud/lib/rex" value="true" />
+        <entry key="$USER_HOME$/Projects/recycloud/plugin/deploy-changelog-notify-gradle-plugin" value="true" />
+        <entry key="$USER_HOME$/Projects/recycloud/plugin/deploy-changelog-notify-maven-plugin" value="true" />
+        <entry key="$USER_HOME$/Projects/recycloud/pub/power-job" value="true" />
+        <entry key="$USER_HOME$/Projects/recycloud/strip/captcha" value="true" />
+        <entry key="$USER_HOME$/Projects/recycloud/strip/captcha-spring-boot-starter" value="true" />
+        <entry key="$USER_HOME$/Projects/recycloud/strip/device" value="true" />
+        <entry key="$USER_HOME$/Projects/recycloud/strip/ebs-spring-boot-starter" value="true" />
+        <entry key="$USER_HOME$/Projects/recycloud/strip/erp" value="true" />
+        <entry key="$USER_HOME$/Projects/recycloud/strip/file-center" value="true" />
+        <entry key="$USER_HOME$/Projects/recycloud/strip/file-center-2" value="true" />
+        <entry key="$USER_HOME$/Projects/recycloud/strip/file-center-spring-boot-starter" value="true" />
+        <entry key="$USER_HOME$/Projects/recycloud/strip/file-center-spring-boot-starter-2" value="true" />
+        <entry key="$USER_HOME$/Projects/recycloud/strip/file-center-spring-boot-starter-sample" value="true" />
+        <entry key="$USER_HOME$/Projects/recycloud/strip/file-sample" value="true" />
+        <entry key="$USER_HOME$/Projects/recycloud/strip/file-sample-spring-boot-starter" value="true" />
+        <entry key="$USER_HOME$/Projects/recycloud/strip/invoice" value="true" />
+        <entry key="$USER_HOME$/Projects/recycloud/strip/invoice-hang-xin" value="true" />
+        <entry key="$USER_HOME$/Projects/recycloud/strip/invoice-v2" value="true" />
+        <entry key="$USER_HOME$/Projects/recycloud/strip/ivs" value="true" />
+        <entry key="$USER_HOME$/Projects/recycloud/strip/ivs-spring-boot-starter" value="true" />
+        <entry key="$USER_HOME$/Projects/recycloud/strip/login" value="true" />
+        <entry key="$USER_HOME$/Projects/recycloud/strip/ocr-spring-boot-starter" value="true" />
+        <entry key="$USER_HOME$/Projects/recycloud/strip/ops" value="true" />
+        <entry key="$USER_HOME$/Projects/recycloud/strip/ops-spring-boot-starter" value="true" />
+        <entry key="$USER_HOME$/Projects/recycloud/strip/palantir" value="true" />
+        <entry key="$USER_HOME$/Projects/recycloud/strip/qds" value="true" />
+        <entry key="$USER_HOME$/Projects/recycloud/strip/task-center" value="true" />
+        <entry key="$USER_HOME$/Projects/recycloud/strip/task-center-spring-boot-starter" value="true" />
+        <entry key="$USER_HOME$/Projects/recycloud/strip/third-party" value="true" />
+        <entry key="$USER_HOME$/Projects/recycloud/strip/thirdparty" value="true" />
+        <entry key="$USER_HOME$/Projects/recycloud/strip/thirdparty-spring-boot-starter" value="true" />
+        <entry key="$USER_HOME$/Projects/recycloud/strip/ucs" value="true" />
+        <entry key="$USER_HOME$/Projects/recycloud/strip/zips-spring-boot-starter" value="true" />
+        <entry key="$USER_HOME$/Projects/recycloud/tems/recycloud" value="true" />
+        <entry key="$USER_HOME$/Projects/recycloud/tems/x-to-pdf" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Projects/recycloud/lib" />
+        <option value="$USER_HOME$/Projects/recycloud/strip" />
+        <option value="$USER_HOME$/Projects/recycloud/tems" />
+        <option value="$USER_HOME$/Projects/recycloud/plugin" />
+        <option value="$USER_HOME$/Projects/recycloud/pub" />
+        <option value="$USER_HOME$/Projects/neo/lib" />
+      </list>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,51 @@
+<scheme name="_@user_Atom One Light (Material)" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2024.1.0.0</property>
+    <property name="modified">2024-04-14T18:10:22</property>
+    <property name="originalScheme">Atom One Light (Material)</property>
+    <property name="partialSave">true</property>
+    <property name="pluginId">com.chrisrm.idea.MaterialThemeUI</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.4" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Consolas" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="PingFang SC" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
+  </font>
+  <option name="EDITOR_LIGATURES" value="true" />
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Menlo" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </console-font>
+  <colors>
+    <option name="FILESTATUS_COPIED" value="0B9B29" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="598027" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="5A7B24" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="808080" />
+    <option name="FILESTATUS_OBSOLETE" value="FFCB6B" />
+    <option name="FILESTATUS_addedOutside" value="0B9B29" />
+    <option name="FILESTATUS_changelistConflict" value="FF2500" />
+    <option name="FILESTATUS_modifiedOutside" value="1C6AB8" />
+  </colors>
+  <attributes>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="99ccbb" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

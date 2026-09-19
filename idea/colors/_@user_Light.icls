@@ -1,0 +1,36 @@
+<scheme name="_@user_Light" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2024.1.0.0</property>
+    <property name="originalScheme">Light</property>
+    <property name="partialSave">true</property>
+    <property name="pluginId">com.intellij</property>
+  </metaInfo>
+  <colors>
+    <option name="FILESTATUS_ADDED" value="21AF24" />
+    <option name="FILESTATUS_COPIED" value="50A14E" />
+    <option name="FILESTATUS_DELETED" value="F77669" />
+    <option name="FILESTATUS_HIJACKED" value="FFCB6B" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="A0A1A7" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="AB7967" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="F77669" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="F77669" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="F77669" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72A038" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="C3E887" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="808080" />
+    <option name="FILESTATUS_MERGED" value="9B859D" />
+    <option name="FILESTATUS_MODIFIED" value="0674AE" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="0674AE" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="0674AE" />
+    <option name="FILESTATUS_OBSOLETE" value="FFCB6B" />
+    <option name="FILESTATUS_RENAMED" value="A626A4" />
+    <option name="FILESTATUS_SUPPRESSED" value="546E7A" />
+    <option name="FILESTATUS_SWITCHED" value="F77669" />
+    <option name="FILESTATUS_UNKNOWN" value="F77669" />
+    <option name="FILESTATUS_addedOutside" value="6EC580" />
+    <option name="FILESTATUS_changelistConflict" value="FF6347" />
+    <option name="FILESTATUS_modifiedOutside" value="4078F2" />
+  </colors>
+</scheme>

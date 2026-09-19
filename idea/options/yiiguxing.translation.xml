@@ -1,0 +1,21 @@
+<application>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1786672925328" />
+  </component>
+  <component name="Translation.Settings">
+    <option name="translator" value="GOOGLE" />
+  </component>
+  <component name="Translation.States">
+    <histories>
+      <item value="Clerk" />
+      <item value="zipped" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE_SIMPLIFIED" value="1" />
+        <entry key="ENGLISH" value="1" />
+        <entry key="TONGAN" value="1" />
+      </map>
+    </option>
+  </component>
+</application>

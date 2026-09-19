@@ -1,0 +1,6 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Atom Material Notifications" displayType="NONE" />
+    <notification groupId="Branch Context group" displayType="NONE" />
+  </component>
+</application>

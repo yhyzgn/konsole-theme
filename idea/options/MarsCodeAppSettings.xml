@@ -1,0 +1,8 @@
+<application>
+  <component name="com.codeverse.userSettings.MarsCodeAppSettingsState">
+    <option name="addToChatPinned" value="false" />
+    <option name="aiAutoConfirmCommandDenyList" value="[&quot;rm&quot;,&quot;kill&quot;,&quot;chmod&quot;,&quot;del&quot;,&quot;erase&quot;,&quot;rd&quot;,&quot;rmdir&quot;,&quot;Remove-Item&quot;]" />
+    <option name="remoteConfigSettings" value="{&quot;totalDebounce&quot;:35,&quot;contextFetchDebounce&quot;:15}" />
+    <option name="shouldUseWebviewByUser" value="false" />
+  </component>
+</application>

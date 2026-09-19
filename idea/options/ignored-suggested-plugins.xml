@@ -1,0 +1,15 @@
+<application>
+  <component name="IgnoredPluginSuggestions">
+    <option name="pluginIds">
+      <list>
+        <option value="com.haulmont.jpab" />
+        <option value="com.intellij.bigdatatools" />
+        <option value="com.intellij.reactivestreams" />
+        <option value="com.intellij.spring.websocket" />
+        <option value="com.intellij.spring" />
+        <option value="com.intellij.spring.messaging" />
+        <option value="com.intellij.spring.integration" />
+      </list>
+    </option>
+  </component>
+</application>

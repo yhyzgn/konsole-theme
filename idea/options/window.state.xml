@@ -1,0 +1,93 @@
+<application>
+  <component name="DimensionService">
+    <location key="find.popup.1440.0.3840.2160" x="1440" y="0" />
+    <location key="find.popup.0.0.1440.2560" x="0" y="0" />
+    <location key="find.popup.2160.0.3840.2160" x="2160" y="0" />
+    <location key="find.popup.0.0.2160.3840" x="0" y="0" />
+    <size key="find.popup.1440.0.3840.2160" width="724" height="594" />
+    <size key="GridCell.Tab.0.left.1440.0.3840.2160" width="3758" height="623" />
+    <size key="GridCell.Tab.0.center.1440.0.3840.2160" width="3758" height="623" />
+    <size key="GridCell.Tab.0.right.1440.0.3840.2160" width="3758" height="623" />
+    <size key="GridCell.Tab.0.bottom.1440.0.3840.2160" width="3758" height="623" />
+    <size key="GridCell.Tab.1.left.1440.0.3840.2160" width="3758" height="623" />
+    <size key="GridCell.Tab.1.center.1440.0.3840.2160" width="3758" height="623" />
+    <size key="GridCell.Tab.1.right.1440.0.3840.2160" width="3758" height="623" />
+    <size key="GridCell.Tab.1.bottom.1440.0.3840.2160" width="3758" height="623" />
+    <size key="GridCell.Tab.2.left.1440.0.3840.2160" width="3758" height="535" />
+    <size key="GridCell.Tab.2.center.1440.0.3840.2160" width="3758" height="535" />
+    <size key="GridCell.Tab.2.right.1440.0.3840.2160" width="3758" height="535" />
+    <size key="GridCell.Tab.2.bottom.1440.0.3840.2160" width="3758" height="535" />
+    <size key="GridCell.Tab.3.left.1440.0.3840.2160" width="3758" height="535" />
+    <size key="GridCell.Tab.3.center.1440.0.3840.2160" width="3758" height="535" />
+    <size key="GridCell.Tab.3.right.1440.0.3840.2160" width="3758" height="535" />
+    <size key="GridCell.Tab.3.bottom.1440.0.3840.2160" width="3758" height="535" />
+    <size key="GridCell.Tab.4.left.1440.0.3840.2160" width="3758" height="535" />
+    <size key="GridCell.Tab.4.center.1440.0.3840.2160" width="3758" height="535" />
+    <size key="GridCell.Tab.4.right.1440.0.3840.2160" width="3758" height="535" />
+    <size key="GridCell.Tab.4.bottom.1440.0.3840.2160" width="3758" height="535" />
+    <size key="GridCell.Tab.5.left.1440.0.3840.2160" width="3758" height="535" />
+    <size key="GridCell.Tab.5.center.1440.0.3840.2160" width="3758" height="535" />
+    <size key="GridCell.Tab.5.right.1440.0.3840.2160" width="3758" height="535" />
+    <size key="GridCell.Tab.5.bottom.1440.0.3840.2160" width="3758" height="535" />
+    <size key="GridCell.Tab.0.left.0.0.1440.2560" width="1358" height="934" />
+    <size key="GridCell.Tab.0.center.0.0.1440.2560" width="1358" height="934" />
+    <size key="GridCell.Tab.0.right.0.0.1440.2560" width="1358" height="934" />
+    <size key="GridCell.Tab.0.bottom.0.0.1440.2560" width="1358" height="934" />
+    <size key="GridCell.Tab.1.left.0.0.1440.2560" width="1358" height="934" />
+    <size key="GridCell.Tab.1.center.0.0.1440.2560" width="1358" height="934" />
+    <size key="GridCell.Tab.1.right.0.0.1440.2560" width="1358" height="934" />
+    <size key="GridCell.Tab.1.bottom.0.0.1440.2560" width="1358" height="934" />
+    <size key="find.popup.0.0.1440.2560" width="649" height="776" />
+    <size key="GridCell.Tab.0.right.2160.0.3840.2160" width="3758" height="650" />
+    <size key="GridCell.Tab.0.left.2160.0.3840.2160" width="3758" height="650" />
+    <size key="GridCell.Tab.0.center.2160.0.3840.2160" width="3758" height="650" />
+    <size key="GridCell.Tab.0.bottom.2160.0.3840.2160" width="3758" height="650" />
+    <size key="GridCell.Tab.1.left.2160.0.3840.2160" width="3758" height="650" />
+    <size key="GridCell.Tab.1.center.2160.0.3840.2160" width="3758" height="650" />
+    <size key="GridCell.Tab.1.right.2160.0.3840.2160" width="3758" height="650" />
+    <size key="GridCell.Tab.1.bottom.2160.0.3840.2160" width="3758" height="650" />
+    <size key="find.popup.2160.0.3840.2160" width="1261" height="670" />
+    <size key="GridCell.Tab.0.right.0.0.2160.3840" width="2078" height="1490" />
+    <size key="GridCell.Tab.0.left.0.0.2160.3840" width="2078" height="1490" />
+    <size key="GridCell.Tab.0.center.0.0.2160.3840" width="2078" height="1490" />
+    <size key="GridCell.Tab.0.bottom.0.0.2160.3840" width="2078" height="1490" />
+    <size key="GridCell.Tab.1.left.0.0.2160.3840" width="2078" height="1490" />
+    <size key="GridCell.Tab.1.center.0.0.2160.3840" width="2078" height="1490" />
+    <size key="GridCell.Tab.1.right.0.0.2160.3840" width="2078" height="1490" />
+    <size key="GridCell.Tab.1.bottom.0.0.2160.3840" width="2078" height="1490" />
+    <size key="find.popup.0.0.2160.3840" width="1267" height="1076" />
+  </component>
+  <component name="WindowManager">
+    <frame x="2160" y="0" width="3858" height="1190" extendedState="6" />
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="1627" y="80" key="FileChooserDialogImpl" timestamp="1782798449294">
+      <screen x="1440" y="0" width="3840" height="2160" />
+    </state>
+    <state x="1627" y="80" key="FileChooserDialogImpl/0.0.1440.2560/1440.0.3840.2160" timestamp="1782720339823" />
+    <state x="1627" y="80" key="FileChooserDialogImpl/1440.0.3840.2160/0.0.1440.2560" timestamp="1782798449294" />
+    <state width="1039" height="406" key="ShowUsagesActions.dimensionServiceKey" timestamp="1789135201020">
+      <screen x="2160" y="0" width="3840" height="2160" />
+    </state>
+    <state width="850" height="142" key="ShowUsagesActions.dimensionServiceKey/0.0.1440.2560/1440.0.3840.2160" timestamp="1786010686409" />
+    <state width="1124" height="168" key="ShowUsagesActions.dimensionServiceKey/0.0.2160.3840/2160.0.3840.2160" timestamp="1789093626445" />
+    <state width="872" height="146" key="ShowUsagesActions.dimensionServiceKey/1440.0.3840.2160/0.0.1440.2560" timestamp="1786159699221" />
+    <state width="1039" height="406" key="ShowUsagesActions.dimensionServiceKey/2160.0.3840.2160/0.0.2160.3840" timestamp="1789135201020" />
+    <state x="2160" y="0" width="1104" height="1329" key="UniversalFileChooserDialog" timestamp="1789194006662">
+      <screen x="2160" y="0" width="3840" height="2160" />
+    </state>
+    <state x="2160" y="0" width="1104" height="1329" key="UniversalFileChooserDialog/0.0.2160.3840/2160.0.3840.2160" timestamp="1789194006662" />
+    <state x="1440" y="0" key="UniversalFileChooserDialog/1440.0.3840.2160/0.0.1440.2560" timestamp="1785925586967" />
+    <state x="2560" y="325" width="800" height="650" key="WELCOME_SCREEN" timestamp="1789193081017">
+      <screen x="2160" y="0" width="3840" height="2160" />
+    </state>
+    <state x="1840" y="325" width="800" height="650" key="WELCOME_SCREEN/0.0.1440.2560/1440.0.3840.2160" timestamp="1785807104877" />
+    <state x="2560" y="325" width="800" height="650" key="WELCOME_SCREEN/0.0.2160.3840/2160.0.3840.2160" timestamp="1789091714091" />
+    <state x="2001" y="401" width="1123" height="802" key="WELCOME_SCREEN/1440.0.3840.2160/0.0.1440.2560" timestamp="1785806111486" />
+    <state x="2560" y="325" width="800" height="650" key="WELCOME_SCREEN/2160.0.3840.2160/0.0.2160.3840" timestamp="1789193081017" />
+    <state width="300" height="524" key="manage.recent.projects.popup" timestamp="1785749269940">
+      <screen x="1440" y="0" width="3840" height="2160" />
+    </state>
+    <state width="300" height="524" key="manage.recent.projects.popup/1440.0.3840.2160/0.0.1440.2560" timestamp="1785749269940" />
+  </component>
+</application>

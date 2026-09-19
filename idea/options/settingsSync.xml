@@ -1,0 +1,25 @@
+<application>
+  <component name="SettingsSyncSettings">
+    <option name="disabledSubcategories">
+      <map>
+        <entry key="PLUGINS">
+          <value>
+            <list>
+              <option value="com.baomidou.plugin.idea.mybatisx" />
+              <option value="com.intellij.debugger.collections.visualizer" />
+              <option value="com.intellij.javaee" />
+              <option value="com.intellij.microservices.ui" />
+              <option value="com.intellij.reactivestreams" />
+              <option value="com.intellij.spring" />
+              <option value="com.intellij.spring.debugger" />
+              <option value="org.jetbrains.idea.maven" />
+              <option value="org.jetbrains.plugins.kotlin.jupyter" />
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="migrationFromOldStorageChecked" value="true" />
+    <option name="syncEnabled" value="true" />
+  </component>
+</application>
